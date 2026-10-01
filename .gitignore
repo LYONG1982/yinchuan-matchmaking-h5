@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.env*
+*.tsbuildinfo
+next-env.d.ts
+AGENTS.md
+.DS_Store
+*.log
+.cooperation-pages-generated
